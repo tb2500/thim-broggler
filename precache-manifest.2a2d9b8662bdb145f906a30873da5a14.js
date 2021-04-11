@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/thim-website/static/css/main.22fde0a2.chunk.css"
   },
   {
-    "revision": "4982bfaa8bb1809c2f4c9a912cc3bc85",
+    "revision": "71ee279e85b6f0e34dbabad904a63e41",
     "url": "/thim-website/index.html"
   }
 ];
