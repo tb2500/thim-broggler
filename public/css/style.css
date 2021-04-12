@@ -251,7 +251,9 @@ figure {
         background-size: cover;
         background-position: bottom center;
         min-height: 400px;
-        position: relative; }
+        position: relative; 
+        /* padding-top: 100px; */
+      }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
