@@ -248,11 +248,10 @@ figure {
       overflow: visible; }
       #colorlib-hero .flexslider .slides li {
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: auto 700;
         background-position: bottom center;
         min-height: 400px;
         position: relative; 
-        /* padding-top: 100px; */
       }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
