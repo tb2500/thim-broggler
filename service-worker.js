@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thim-website/precache-manifest.c3c4b6f76e9d1cff5c9ae144d4294977.js"
+  "/thim-broggler/precache-manifest.afef2ae9595efab367df1700c1b56840.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/thim-website/index.html", {
+workbox.routing.registerNavigationRoute("/thim-broggler/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

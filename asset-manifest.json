@@ -1,13 +1,13 @@
 {
-  "main.css": "/thim-website/static/css/main.22fde0a2.chunk.css",
-  "main.js": "/thim-website/static/js/main.c980c837.chunk.js",
-  "main.js.map": "/thim-website/static/js/main.c980c837.chunk.js.map",
-  "runtime~main.js": "/thim-website/static/js/runtime~main.bb1380c8.js",
-  "runtime~main.js.map": "/thim-website/static/js/runtime~main.bb1380c8.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/thim-website/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/thim-website/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/thim-website/index.html",
-  "precache-manifest.c3c4b6f76e9d1cff5c9ae144d4294977.js": "/thim-website/precache-manifest.c3c4b6f76e9d1cff5c9ae144d4294977.js",
-  "service-worker.js": "/thim-website/service-worker.js",
-  "static/css/main.22fde0a2.chunk.css.map": "/thim-website/static/css/main.22fde0a2.chunk.css.map"
+  "main.css": "/thim-broggler/static/css/main.22fde0a2.chunk.css",
+  "main.js": "/thim-broggler/static/js/main.4e3bac5c.chunk.js",
+  "main.js.map": "/thim-broggler/static/js/main.4e3bac5c.chunk.js.map",
+  "runtime~main.js": "/thim-broggler/static/js/runtime~main.860bc23f.js",
+  "runtime~main.js.map": "/thim-broggler/static/js/runtime~main.860bc23f.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/thim-broggler/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/thim-broggler/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/thim-broggler/index.html",
+  "precache-manifest.afef2ae9595efab367df1700c1b56840.js": "/thim-broggler/precache-manifest.afef2ae9595efab367df1700c1b56840.js",
+  "service-worker.js": "/thim-broggler/service-worker.js",
+  "static/css/main.22fde0a2.chunk.css.map": "/thim-broggler/static/css/main.22fde0a2.chunk.css.map"
 }
